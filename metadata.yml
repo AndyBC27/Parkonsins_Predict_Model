@@ -1,0 +1,15 @@
+---
+:id: 261475592
+:submitters:
+- :name: Julia Zherdetski
+  :email: juliazh@stanford.edu
+- :name: Jinglin Wang
+  :email: wjinglin@stanford.edu
+- :name: Andrzej Ignatius Bachleda Curus
+  :email: andrewbc@stanford.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-08-17 03:12:38.675433000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-08-16 20:12:38.675433000 Z
+:status: processed
